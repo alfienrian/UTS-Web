@@ -1,0 +1,9 @@
+article img {
+    width: 140px;
+  }
+
+  @media (max-width: 992px) {
+    article img {
+      width: 25%;
+    }
+  }
